@@ -5,6 +5,7 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "mapshaper": "^0.6.25"
+    "mapshaper": "^0.6.25",
+    "tippecanoe": "^0.6.0"
   }
 }

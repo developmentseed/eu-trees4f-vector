@@ -24,3 +24,7 @@ yarn-error.log*
 
 out
 data/extents/geojson
+data/points/geojson
+data/hex/geojson
+data/points/tiles
+data/hex/tiles
